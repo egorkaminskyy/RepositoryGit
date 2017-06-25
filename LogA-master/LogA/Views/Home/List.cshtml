@@ -1,0 +1,52 @@
+@model IEnumerable<LogA.Models.Profile.ProfileModel>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h2>List of Users</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProfilePicture)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SecondName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Phone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.User.Email)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <img src="~/ProfileImage/@item.User.Id/@item.ProfilePicture" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecondName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Email)
+                <hr />
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

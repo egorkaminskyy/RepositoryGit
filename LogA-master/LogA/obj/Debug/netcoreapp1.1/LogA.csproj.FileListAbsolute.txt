@@ -1,0 +1,26 @@
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\bin\Debug\netcoreapp1.1\LogA.deps.json
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\bin\Debug\netcoreapp1.1\LogA.runtimeconfig.json
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\bin\Debug\netcoreapp1.1\LogA.runtimeconfig.dev.json
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\bin\Debug\netcoreapp1.1\LogA.dll
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\obj\Debug\netcoreapp1.1\LogA.csprojResolveAssemblyReference.cache
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\obj\Debug\netcoreapp1.1\LogA.AssemblyInfo.cs
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\bin\Debug\netcoreapp1.1\LogA.pdb
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\obj\Debug\netcoreapp1.1\LogA.dll
+c:\users\mtap\documents\visual studio 2017\Projects\LogA\LogA\obj\Debug\netcoreapp1.1\LogA.pdb
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.deps.json
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.runtimeconfig.json
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.runtimeconfig.dev.json
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.dll
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.pdb
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.AssemblyInfo.cs
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.dll
+C:\Users\Egor\Downloads\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.pdb
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.deps.json
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.runtimeconfig.json
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.runtimeconfig.dev.json
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.dll
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\bin\Debug\netcoreapp1.1\LogA.pdb
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.AssemblyInfo.cs
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.dll
+C:\Users\Egor\Documents\Visual Studio 2017\Projects\LogA-master\LogA-master\LogA\obj\Debug\netcoreapp1.1\LogA.pdb
